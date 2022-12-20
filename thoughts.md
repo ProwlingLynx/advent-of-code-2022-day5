@@ -16,5 +16,11 @@ I think the problems I need to solve are these:
   - The stacks should have these methods: pop, peek, and add.
 - create a list of the created stacks to represent the columns.
 - create a class that will apply instructions to the list of columns.
-- Finally a class or method that will grab the top value of each stack. Note: there might be nulls.
+- Finally, a class or method that will grab the top value of each stack. Note: there might be nulls.
+
+The order of things to implement and test.
+- stack and it's behavior
+- a class that houses the list of stacks and the methods it can apply to it.
+  - This will include the methods that will manipulate the stacks.
+- the file reader that will generate the list and then insert the instructions
 
